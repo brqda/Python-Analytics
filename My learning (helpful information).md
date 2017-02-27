@@ -1,11 +1,11 @@
 # Python-Analytics
 
-Tools:
+Tools:/n
 install Anaconda - https://www.continuum.io/downloads
 
-Web resources:
+Web resources:/n
 https://www.analyticsvidhya.com/ - EN
 
-Books:
+Books:/n
 
-Courses:
+Courses:/n
